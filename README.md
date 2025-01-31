@@ -11,6 +11,8 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ## Installation
 
-To install the project locally, follow these steps:
+To install and run project locally, follow these steps:
 
-1. run on terminal: npm i --legacy-peer-deps
+1. run on terminal: `npm i --legacy-peer-deps`
+
+2. run on terminal: `npm run dev`
